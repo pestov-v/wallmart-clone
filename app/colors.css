@@ -1,0 +1,17 @@
+:root {
+  --primary-light: #c0c8e9;
+  --primary: #5c77fa;
+  --primary-dark: #3d55c9;
+
+  --secondary-light: #e0f2f7;
+  --secondary: #40e0d0;
+  --secondary-dark: #00bfa5;
+
+  --success: #4caf50;
+  --danger: #f44336;
+  --warning: #ffeb3b;
+
+  --info: #2196f3;
+  --text-color: #333333;
+  --background-color: #ffffff;
+}
